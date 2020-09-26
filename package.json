@@ -1,0 +1,31 @@
+{
+  "name": "react-controls",
+  "version": "0.1.0",
+  "description": "Displays Material UI controls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osequi/react-controls.git"
+  },
+  "keywords": [
+    "react",
+    "material",
+    "ui",
+    "controls"
+  ],
+  "author": "Csongor Bartus (cs@osequi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osequi/react-controls/issues"
+  },
+  "homepage": "https://github.com/osequi/react-controls#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
