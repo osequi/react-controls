@@ -1,8 +1,8 @@
 {
   "name": "@osequi/react-controls",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Displays Material UI controls",
-  "main": "index.js",
+  "main": "./build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,7 +22,7 @@
     "url": "https://github.com/osequi/react-controls/issues"
   },
   "homepage": "https://github.com/osequi/react-controls#readme",
-  "dependencies": {
+  "peerDependencies": {
     "lodash": "^4.17.20",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
