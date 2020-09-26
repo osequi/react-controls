@@ -5,7 +5,7 @@ import shortid from "shortid";
 /**
  * Imports other components and hooks
  */
-import Controls, { ControlsPropTypes } from "../../src/Controls";
+import Controls, { ControlsPropTypes } from "@osequi/react-controls";
 
 /**
  * Defines the prop types

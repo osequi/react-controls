@@ -1,5 +1,5 @@
 {
-  "name": "react-controls",
+  "name": "@osequi/react-controls",
   "version": "0.1.0",
   "description": "Displays Material UI controls",
   "main": "index.js",
